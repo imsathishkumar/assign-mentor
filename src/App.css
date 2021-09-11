@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#toast-container {
+    top: 30px !important;
+    right: 20px !important;
+    left: auto !important;
+}
+a{
+    text-decoration: none;
+}
+.create-mentor{
+    margin-top: 30% ;
+}
+.card_input{
+    margin-top: 100px;
+}
+.createMentor_button{
+    margin-left: 35%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
